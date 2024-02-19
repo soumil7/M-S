@@ -1,0 +1,29 @@
+/* COLOR PICKER */
+
+.heading {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 30000;
+}
+
+.paragraph {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+.submit {
+    color: chartreuse;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.group-container {
+    color: darkolivegreen;
+}
+
+
+/* px 
+em - 16px --- 1 em
+vh, vw */
